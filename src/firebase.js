@@ -1,13 +1,13 @@
 import firebase from 'firebase';
 
 var firebaseApp = firebase.initializeApp({
-    apiKey: "AIzaSyCfrhUlRlF0GJgMUVUtwA2QD0To3hPkocQ",
-    authDomain: "technical-cv-contact-react.firebaseapp.com",
-    databaseURL: "https://technical-cv-contact-react.firebaseio.com",
-    projectId: "technical-cv-contact-react",
-    storageBucket: "technical-cv-contact-react.appspot.com",
-    messagingSenderId: "149004581324",
-    appId: "1:149004581324:web:19260ccf724600eb434569"
+    apiKey: "AIzaSyDRhZCO9OnwSSxL4tXcHNML6zu77rA8Rt4",
+    authDomain: "ntombizodwamafatechnicalcv.firebaseapp.com",
+    databaseURL: "https://ntombizodwamafatechnicalcv.firebaseio.com",
+    projectId: "ntombizodwamafatechnicalcv",
+    storageBucket: "ntombizodwamafatechnicalcv.appspot.com",
+    messagingSenderId: "532437058836",
+    appId: "1:532437058836:web:095dddbdc61f1097602e01"
 });
 
 var db = firebase.firestore();

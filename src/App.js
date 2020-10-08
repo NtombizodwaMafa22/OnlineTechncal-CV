@@ -23,7 +23,7 @@ class App extends React.Component {
       ],
       home:{
         title:'Hello,',
-        subtitle:'Bsc IT Database Admistrator',
+        subtitle:'Bsc Information Technology final Year student',
         text: 'Check out my projects',
         picture: './images/profile.jpg'
       },

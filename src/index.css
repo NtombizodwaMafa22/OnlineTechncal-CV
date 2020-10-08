@@ -15,13 +15,14 @@ code {
 
 .aboutmeDisplay{
     /*background: url('/images/img-2.jpg');*/
-    height:100ch;
+    /*height:100%;*/
     width:100%;
     display: flexbox;
     flex-direction: column;
     align-items: center;
     font-style: normal;
-   color: white;
+    color: white;
+    margin-bottom: auto;
 }
 
 .hero_containter{
@@ -36,6 +37,8 @@ code {
 .mt-5{
     background-color:lightgray;
     color: black;
+    margin-bottom: auto;
+    margin-top: auto;
 }
 
 .profilepicture{
@@ -99,7 +102,7 @@ code {
   }
 
   .nav-link:hover{
-    transform: rotate(5deg);
+    /*transform: rotate(5deg);*/
     background-color: rgb(0, 89, 255);
   }
 
